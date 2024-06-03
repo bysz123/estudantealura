@@ -1,4 +1,5 @@
 *Boas vindas ao meu perfil* 💟
+
    Meu nome é Byanca Deco
 
 • _Estou estudando na Alura
@@ -9,4 +10,4 @@
 
 *Você pode entrar em contato comigo* 📫
 
-• 00001113558210sp@al.educacao.sp.gov.br
+ 00001113558210sp@al.educacao.sp.gov.br
